@@ -1,5 +1,6 @@
 /output
 /bin
 tmp
+*.DS_Store
 *.json
 .apollo-base-config
